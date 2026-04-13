@@ -1,0 +1,5 @@
+{
+  "name": "MeterVision OCR",
+  "description": "Professional meter reading and digit extraction tool using Gemini Vision.",
+  "requestFramePermissions": ["camera"]
+}
